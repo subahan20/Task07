@@ -1,0 +1,13 @@
+*{
+    background-color: gray;
+}
+#heading{
+    background-color: red;
+    color: orange;
+    text-align: center;
+}
+#para{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
